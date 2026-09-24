@@ -5,13 +5,13 @@ body {
     color: #333333;
 }
 
-/* Checkpoint 2: Contextual Selector for Header Navigation Hover State */
+
 header nav a:hover {
     color: teal;
     text-decoration: underline;
 }
 
-/* Checkpoint 2: Contextual Selector for Headings inside Article */
+
 article h2 {
     color: darkgreen;
     border-bottom: 2px solid #ccc;
