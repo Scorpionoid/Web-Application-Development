@@ -1,12 +1,12 @@
 body {
-    background-color: white; /* Change to black for Step 4 */
-    color: #000099;          /* Change to white for Step 4 */
+    background-color: white;
+    color: #000099;          
     font-family: Arial, Helvetica, sans-serif;
 }
 
 h1 {
     font-family: "Times New Roman", serif;
-    color: black;            /* Change to #CCCCCC for Step 4 */
+    color: black;           
 }
 
 a {
